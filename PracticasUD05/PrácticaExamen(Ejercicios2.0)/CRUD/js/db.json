@@ -1,0 +1,60 @@
+{
+  "clientes": [
+    {
+      "nombre": "Natalia Escrivá",
+      "email": "natalia@gmail.com",
+      "telefono": "325985632",
+      "empresa": "IES Serra Perenxisa",
+      "id": "4"
+    },
+    {
+      "nombre": "Roberto García",
+      "email": "roberto@gmail.com",
+      "telefono": "aaaaaaaaa",
+      "empresa": "IES La Marxadella",
+      "id": "5"
+    },
+    {
+      "nombre": "pepei",
+      "email": "calbosad@gmail.com",
+      "telefono": "awd",
+      "empresa": "eeeeeee",
+      "id": "1297"
+    },
+    {
+      "id": "4958",
+      "nombre": "Lola",
+      "email": "luciaruisal@gmail",
+      "telefono": "432",
+      "empresa": "ggth"
+    },
+    {
+      "nombre": "WIWI",
+      "email": "WIWI",
+      "telefono": "WIWI",
+      "empresa": "WIWI",
+      "id": "921e"
+    },
+    {
+      "id": "5301",
+      "nombre": "DF",
+      "email": "calbosad@gmail.com",
+      "telefono": "432",
+      "empresa": "ggth"
+    },
+    {
+      "nombre": "ASDDAS",
+      "email": "DAS",
+      "telefono": "4566632",
+      "empresa": "DA",
+      "id": "c675"
+    },
+    {
+      "id": "d903",
+      "nombre": "VDSV",
+      "email": "VDFV",
+      "telefono": "VV",
+      "empresa": "VV"
+    }
+  ]
+}

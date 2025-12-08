@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Natalia Escrivá",
+      "email": "natalia@gmail.com",
+      "telefono": "325985632",
+      "empresa": "IES Serra Perenxisa",
+      "id": "4"
+    },
+    {
+      "nombre": "Roberto García",
+      "email": "roberto@gmail.com",
+      "telefono": "111111111",
+      "empresa": "IES La Marxadella",
+      "id": "5"
+    },
+    {
+      "id": "2eff",
+      "nombre": "pepei",
+      "email": "luciaruisal@gmail",
+      "telefono": "432",
+      "empresa": "ggth"
+    }
+  ]
+}
